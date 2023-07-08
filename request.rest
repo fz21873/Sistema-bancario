@@ -1,0 +1,48 @@
+
+PUT  http://localhost:3003/account/750
+Content-Type: application/json
+
+{
+  "name": "Daniela Coelhos"
+}
+
+###
+DELETE http://localhost:3003/account/111199
+
+
+###
+
+POST   http://localhost:3003/account
+Content-Type: application/json
+
+{
+    "name": "Maria Silva",
+    "cpf": "111199",
+    "birthDate": "06/09/2003",
+    "balance": 185,
+    "transactions": []
+}
+
+
+###
+PUT    http://localhost:3003/account/111199/transaction
+Content-Type: application/json
+
+{
+    "value":6000,
+    "type":"entrada"
+}
+
+###
+GET http://localhost:3003/account/?cpf=750&name=Daniela Coelhoss
+
+
+###
+GET http://localhost:3003/account/111199/balance
+
+
+
+###
+PUT  http://localhost:3003/account/111199/withdrawfull
+
+

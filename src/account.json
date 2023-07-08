@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Daniela Coelhos",
+    "cpf": "750",
+    "birthDate": "06/09/1997",
+    "balance": 2,
+    "transactions": []
+  },
+  {
+    "name": "jullia",
+    "cpf": "7501",
+    "birthDate": "06/09/1997",
+    "balance": 1,
+    "transactions": []
+  },
+  {
+    "name": "Rosa Coelho",
+    "cpf": "701",
+    "birthDate": "06/09/1997",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "name": "Maria Silva",
+    "cpf": "111199",
+    "birthDate": "Mon Jun 09 2003 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+    "balance": 0,
+    "transactions": [
+      {
+        "type": "entrada",
+        "value": 1500,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 16:22:43 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "entrada",
+        "value": 1500,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 17:40:13 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "saida",
+        "value": 150,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 17:40:54 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "saida",
+        "value": 3035,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:14:02 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "entrada",
+        "value": 3500,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:15:11 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "saida",
+        "value": 3500,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:16:20 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "saida",
+        "value": 0,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:16:22 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "saida",
+        "value": 0,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:16:27 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "entrada",
+        "value": 5500,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:21:28 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "saida",
+        "value": 5500,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:22:13 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "entrada",
+        "value": 6000,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:23:11 GMT-0300 (Horário Padrão de Brasília)"
+      },
+      {
+        "type": "saida",
+        "value": 6000,
+        "description": "Nova Transação",
+        "date": "Sat Jul 08 2023 18:25:40 GMT-0300 (Horário Padrão de Brasília)"
+      }
+    ]
+  }
+]
